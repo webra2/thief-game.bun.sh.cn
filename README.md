@@ -2,7 +2,13 @@
 
 ### 说明
 
-这个项目通过github原样自动拷贝练兵场所有代码到这个项目，可以直接克隆到本地一键部署一个一模一样的站点。
+这个项目通过这个[下载器](https://github.com/webra2/lianbingchang-downloader)原样自动拷贝练兵场所有代码到这个项目。可以直接克隆本项目到本地或者云服务器一键部署一个一模一样的站点。
+支持单机人机对战。
+
+
+### 一键部署到腾讯云
+
+[![](https://cloudbase.net/deploy.svg)](https://console.cloud.tencent.com/webify/new?tpl=https%3A%2F%2Fgithub.com%2Fwebra2%2Fthief-game.bun.sh.cn&dir=%2F&reponame=webra2)
 
 
 

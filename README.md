@@ -5,6 +5,7 @@
 这个项目通过这个[下载器](https://github.com/webra2/lianbingchang-downloader)原样自动拷贝练兵场所有代码到这个项目。可以直接克隆本项目到本地或者云服务器一键部署一个一模一样的站点。
 支持单机人机对战。
 
+想要运行这个小偷站点还需要修改一个 config.ini , 把 gameresBaseUrl 这一行改成 gameresBaseUrl=/v2/
 
 ### 一键部署到腾讯云
 
